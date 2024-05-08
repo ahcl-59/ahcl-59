@@ -3,4 +3,6 @@
 ## Bio
 ## Proyectos
 ### Creación de repositorio retogit
-Lorem ipsum
+lorem ipsum
+- lorem impsum
+  - lorem ipsum
