@@ -1,6 +1,7 @@
 # Portada de Angelo Chiu
 ![Imagen de Portada](recursos/timey_wimey.jpg)
 ## Bio
+Estudiante de DAM 1er año en la UAX.
 ## Proyectos
 ### Trabajo sobre proyecto Java
 Proyecto en la rama principal ***```retogit```*** que contiene un archivo Java.
