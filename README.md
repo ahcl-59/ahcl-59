@@ -3,11 +3,11 @@
 ## Bio
 ## Proyectos
 ### Trabajo sobre proyecto Java
-Proyecto en la rama principal ***<text style="color: red">retogit*** que contiene un archivo Java.
+Proyecto en la rama principal ***```diff -retogit```*** que contiene un archivo Java.
 1) Creación del repositorio main que contiene:
   - Un *ReadMe*
   - Un directorio *src* con el archivo Java
-2) Nueva rama de trabajo - se designa la rama ***<text style="color:red">desarrolloPersona</text>*** como rama secundaria.
+2) Nueva rama de trabajo - se designa la rama ***desarrolloPersona*** como rama secundaria.
   - Paralelamente se trabaja desde *GitHub Desktop* donde se clona la rama *desarrolloPersona*.
   - Dentro del repositorio local se trabaja el archivo Java, realizando implementaciones de clases y atributos.
 3) Implementación de la rama secundaria en la rama principal
@@ -19,7 +19,3 @@ Imagen del repositorio *retogit* ![Imagen](recursos/img_retogit.png)
 
 >[!NOTE]
 Este proyecto es un ejercicio básico para saber cómo funciona GitHub y el manejo de ramas. 
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
