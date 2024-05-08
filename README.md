@@ -3,7 +3,7 @@
 ## Bio
 ## Proyectos
 ### Trabajo sobre proyecto Java
-Proyecto en la rama principal ***<text style="color: red">retogit</text>*** $\color{#FF0000}{***retogit!***}$ que contiene un archivo Java.
+Proyecto en la rama principal ***<text style="color: red">retogit</text>*** ***$\color{#FF0000}{retogit!}$*** que contiene un archivo Java.
 1) Creación del repositorio main que contiene:
   - Un *ReadMe*
   - Un directorio *src* con el archivo Java
