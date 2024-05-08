@@ -16,7 +16,7 @@ Proyecto en la rama principal ***```retogit```*** que contiene un archivo Java.
   - Desde la rama secundaria, se extraen con un ***Pull*** las distintas modificaciones.
   - Se realiza un ***Merge***
 <br><br>Imagen del repositorio *retogit* ![Imagen](recursos/img_retogit.png)
-👍👍 Y así es cómo hemos hecho el primer proyecto en GitHub 🤓
 
+👍👍 Y así es cómo hemos hecho el primer proyecto en GitHub 🤓
 >[!NOTE]
 Este proyecto es un ejercicio básico para saber cómo funciona GitHub y el manejo de ramas. 
