@@ -3,7 +3,7 @@
 ## Bio
 ## Proyectos
 ### Trabajo sobre proyecto Java
-Proyecto en la rama principal ***```diff -retogit```*** que contiene un archivo Java.
+Proyecto en la rama principal ***```retogit```*** que contiene un archivo Java.
 1) Creación del repositorio main que contiene:
   - Un *ReadMe*
   - Un directorio *src* con el archivo Java
