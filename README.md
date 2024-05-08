@@ -16,3 +16,6 @@ Proyecto en la rama principal ***retogit*** que contiene un archivo Java.
   - Se realiza un ***Merge***
 Imagen del repositorio *retogit* ![Imagen](recursos/)
 👍👍 Y así es cómo hemos hecho el primer proyecto en GitHub 🤓
+
+[!NOTE]
+Este proyecto es un ejercicio básico para saber cómo funciona GitHub y el manejo de ramas. 
